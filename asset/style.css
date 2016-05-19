@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  text-align:center;
+  margin-top: 10%;
+  margin-left: 15%;
+  margin-right:15%;
+  font-family: 'Inconsolata', san-serif ;
+}
+
+#location {
+  font-family: 'Inconsolata', san-serif ;
+  font-size:35px;
+}
